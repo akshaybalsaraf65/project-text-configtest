@@ -7,6 +7,9 @@ public class data {
 
 		System.out.println("data-checked");
 		
+		int y = 10;
+		System.out.println(y);
+		
 	}
 
 }
